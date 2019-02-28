@@ -9,7 +9,7 @@ Requires following packages:
 
 ## Dataset NOT included (please download separately)
 
-To follow along, you'll need to download the Flickr8K dataset. Fill [this form](https://forms.illinois.edu/sec/1713398) and you'll receive a download link on your email. Extract the zip file in the 'Flicker8k_Dataset' folder in the same directory as your notebook. You'll also need to download captions [from here](http://cs.stanford.edu/people/karpathy/deepimagesent/caption_datasets.zip). Extract captions in the folder 'caption_datasets'.
+To follow along, you'll need to download the Flickr8K dataset. Fill [this form](https://forms.illinois.edu/sec/1713398) and you'll receive a download link on your email. (There's also a [direct link to download the 1GB Flickr8K dataset](https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_Dataset.zip), though not sure how long it'll stay like that). Extract the zip file in the 'Flicker8k_Dataset' folder in the same directory as your notebook. You'll also need to download captions [from here](http://cs.stanford.edu/people/karpathy/deepimagesent/caption_datasets.zip). Extract captions in the folder 'caption_datasets'.
 
 ## Example performance
 
